@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "5a7f1af852cf6a7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9df6bc69ae93581f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "192ae287b54bb1d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Падающие шары(Crocodilo bombardiro).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Падающие шары(Crocodilo bombardiro)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6de047791f1014d6",
+        "type": "split",
+        "children": [
+          {
+            "id": "43935c3449fde395",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6c24663cadabfc8f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Палка.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Палка"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f8ec6665325fbe04",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9e1822265a47a697",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f425b325231f6dcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "083001f5b3640e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20880b4a6159b0c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cff880e3bf0ea0d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "08e87d08c143719e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c296fbc5dd0d167",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd373d3db66d1d6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6998b96ee091728f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Гача.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Гача"
+            }
+          },
+          {
+            "id": "172fc6ff9175e12c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Гача.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Гача"
+            }
+          },
+          {
+            "id": "2c9b9c39b7ffaa01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c0058d1ceb77d26c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Гача.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Гача"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "192ae287b54bb1d0",
+  "lastOpenFiles": [
+    "photo_2025-04-14_11-07-23.jpg",
+    "photo_2025-04-14_11-07-27.jpg",
+    "photo_2025-04-14_11-07-29.jpg",
+    "photo_2025-04-14_11-07-32.jpg",
+    "Падающие шары(Crocodilo bombardiro).md",
+    "Палка.md",
+    "Оружие (Beat-the-boss).md",
+    "Pasted image 20250411134137.png",
+    "Pasted image 20250411134122.png",
+    "Pasted image 20250411134017.png",
+    "Гача.md",
+    "Стационарное.md",
+    "Огнестрел.md",
+    "Штуки за достижения.md",
+    "Взрывное.md",
+    "Уникальное.md",
+    "2025-04-08.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
