@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Симулятор дня.md",
+                "file": "Рабочее/Симулятор дня.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Симулятор дня.md",
+                "file": "Рабочее/Симулятор дня.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Симулятор дня.md",
+                "file": "Рабочее/Симулятор дня.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Симулятор дня.md",
+                "file": "Рабочее/Симулятор дня.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,8 +180,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6df1288784e0151",
+  "active": "14981c587e95e8e3",
   "lastOpenFiles": [
-    "Симулятор дня.md"
+    "Рабочее/Симулятор дня.md"
   ]
 }
