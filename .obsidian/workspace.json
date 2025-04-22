@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3190f8fed46d99f1",
+        "id": "1921d056f915cce9",
         "type": "tabs",
         "children": [
           {
-            "id": "a6df1288784e0151",
+            "id": "dd22a5006314f71c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Рабочее/Симулятор дня.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Симулятор дня"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Рабочее/Симулятор дня.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Симулятор дня"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Рабочее/Симулятор дня.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Симулятор дня"
+              "title": "Outline"
             }
           },
           {
@@ -163,10 +160,26 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "1240afa6bfb38141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6df1288784e0151",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 528.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14981c587e95e8e3",
+  "active": "a6df1288784e0151",
   "lastOpenFiles": [
     "Рабочее/Симулятор дня.md"
   ]
