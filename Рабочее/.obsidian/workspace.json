@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Гача.md",
+                "file": "Симулятор дня.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Гача"
+              "title": "Симулятор дня"
             }
           }
         ]
@@ -193,13 +193,23 @@
               "icon": "lucide-list",
               "title": "Outline of Гача"
             }
+          },
+          {
+            "id": "5753a4cc48f2be80",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,11 +219,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "192ae287b54bb1d0",
   "lastOpenFiles": [
+    "Уникальное.md",
+    "Штуки за достижения.md",
+    "Pasted image 20250411134017.png",
+    "Симулятор дня.md",
+    "Гача.md",
     "Падающие шары(Crocodilo bombardiro).md",
     "photo_2025-04-14_11-07-23.jpg",
     "photo_2025-04-14_11-07-27.jpg",
@@ -223,13 +239,9 @@
     "Оружие (Beat-the-boss).md",
     "Pasted image 20250411134137.png",
     "Pasted image 20250411134122.png",
-    "Pasted image 20250411134017.png",
-    "Гача.md",
     "Стационарное.md",
     "Огнестрел.md",
-    "Штуки за достижения.md",
     "Взрывное.md",
-    "Уникальное.md",
     "2025-04-08.md",
     "Welcome.md",
     "create a link.md"
